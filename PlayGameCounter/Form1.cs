@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Media; 
 
-namespace PlayGameCounter
+namespace PlayGameCounter;
 {
     public partial class Form1 : Form
     {
